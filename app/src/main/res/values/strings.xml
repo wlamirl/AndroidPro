@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ReceitasApp</string>
+    <string name="receita_bolo_titulo">Receita de Bolo</string>
+    <string name="receita_bolo_descr">Receita de Bolo para aniversário e casamento</string>
+    <string name="botao_ver_receita">Ver Receita</string>
+    <string name="receita_torta_titulo">Receita de Torta</string>
+    <string name="receita_torta_descr">Receita de Bolo para aniversário e casamento</string>
+    <string name="receita_cookie_titulo">Receita de Cookie</string>
+    <string name="receita_cookie_descr">Receita de Bolo para aniversário e casamento</string>
+    <string name="receita_sorvete_titulo">Receita de Sorvete</string>
+    <string name="receita_sorvete_descr">Receita de Bolo para aniversário e casamento</string>
+    <string name="receita_conteudo">Conteúdo da Receita</string>
+</resources>
